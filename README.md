@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Peter Babs:
-👩‍💻 Fullstack dev | Currently building an AI-powered interview prep app<br>
+👩‍💻 I am a Fullstack developer 
+🏫 Currently building an AI-powered interview prep app<br>
 🤝 Open to collabs on cool web projects<br>
 📚 I'm currently learning AI prompt design and web optimization<br>
 💬 Ask me about AI, full-stack, or side projects.<br>
